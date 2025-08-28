@@ -196,3 +196,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- feat: implement core protocol logic - 2025-08-28 04:53:51 -->
+
+
+<!-- feat: add staking mechanism - 2025-08-29 01:20:51 -->
