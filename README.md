@@ -262,3 +262,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- test: add comprehensive test suite - 2025-09-19 06:44:51 -->
+
+
+<!-- fix: resolve calculation precision issues - 2025-09-20 03:07:51 -->
