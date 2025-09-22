@@ -16,3 +16,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- fix: resolve calculation precision issues - 2025-09-21 13:58:21 -->
+
+
+<!-- feat: add reward distribution system - 2025-09-22 12:39:21 -->
