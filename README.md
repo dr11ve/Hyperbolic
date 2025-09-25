@@ -280,3 +280,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- feat: add reward distribution system - 2025-09-25 06:54:51 -->
+
+
+<!-- fix: resolve calculation precision issues - 2025-09-25 22:34:51 -->
