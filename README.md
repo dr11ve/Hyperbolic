@@ -283,3 +283,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- fix: resolve calculation precision issues - 2025-09-25 22:34:51 -->
+
+
+<!-- feat: add staking mechanism - 2025-09-27 00:56:51 -->
