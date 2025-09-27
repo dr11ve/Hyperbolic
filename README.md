@@ -31,3 +31,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- docs: update protocol documentation - 2025-09-26 18:20:21 -->
+
+
+<!-- feat: implement governance voting - 2025-09-27 18:40:21 -->
