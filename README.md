@@ -34,3 +34,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- feat: implement governance voting - 2025-09-27 18:40:21 -->
+
+
+<!-- refactor: improve contract gas efficiency - 2025-09-28 18:02:21 -->
