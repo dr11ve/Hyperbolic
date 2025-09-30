@@ -40,3 +40,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- fix: resolve calculation precision issues - 2025-09-29 13:17:21 -->
+
+
+<!-- refactor: improve contract gas efficiency - 2025-09-30 11:33:21 -->
