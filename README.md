@@ -52,3 +52,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- feat: implement core protocol logic - 2025-10-03 19:07:21 -->
+
+
+<!-- feat: add reward distribution system - 2025-10-04 17:33:21 -->
