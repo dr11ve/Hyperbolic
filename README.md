@@ -70,3 +70,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- feat: add staking mechanism - 2025-10-09 20:05:21 -->
+
+
+<!-- refactor: improve contract gas efficiency - 2025-10-10 14:05:21 -->
