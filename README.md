@@ -325,3 +325,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- feat: add reward distribution system - 2025-10-10 06:07:51 -->
+
+
+<!-- docs: update protocol documentation - 2025-10-11 01:27:51 -->
