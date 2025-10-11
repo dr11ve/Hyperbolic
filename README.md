@@ -73,3 +73,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- refactor: improve contract gas efficiency - 2025-10-10 14:05:21 -->
+
+
+<!-- test: add comprehensive test suite - 2025-10-11 16:37:21 -->
