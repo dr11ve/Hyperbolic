@@ -337,3 +337,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- fix: resolve calculation precision issues - 2025-10-14 04:20:51 -->
+
+
+<!-- feat: implement core protocol logic - 2025-10-14 21:34:51 -->
