@@ -343,3 +343,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- feat: implement governance voting - 2025-10-16 06:28:51 -->
+
+
+<!-- fix: resolve calculation precision issues - 2025-10-17 00:17:51 -->
