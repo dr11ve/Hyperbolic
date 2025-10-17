@@ -91,3 +91,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- test: add comprehensive test suite - 2025-10-16 17:02:21 -->
+
+
+<!-- docs: update protocol documentation - 2025-10-17 15:29:21 -->
