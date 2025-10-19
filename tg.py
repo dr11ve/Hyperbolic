@@ -11,7 +11,7 @@ TOKEN = 'Input_TG_Token'
 
 # Set up Hyperbolic AI API
 API_ENDPOINT = 'https://api.hyperbolic.com/v1/answer'  # Replace with your actual API endpoint
-API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtYWtzaW1pbGlhbjI2MDk5NkBnbWFpbC5jb20iLCJpYXQiOjE3NDEyOTI3ODV9.xUMqOta0CBbP2qOsoJPpmv5EuZrASapLv34-rVMqC5Y'  # Replace with your actual API key
+API_KEY = 'Input_YOUR_Actual_HB_API'  # Replace with your actual API key
 
 # Define a function to handle incoming messages
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
