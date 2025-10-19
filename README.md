@@ -352,3 +352,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- feat: add reward distribution system - 2025-10-19 01:35:51 -->
+
+
+<!-- feat: add staking mechanism - 2025-10-19 23:42:51 -->
