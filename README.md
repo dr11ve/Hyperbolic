@@ -100,3 +100,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- refactor: improve contract gas efficiency - 2025-10-19 18:30:21 -->
+
+
+<!-- docs: update protocol documentation - 2025-10-20 14:29:21 -->
