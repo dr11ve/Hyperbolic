@@ -358,3 +358,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- feat: add staking mechanism - 2025-10-21 07:03:51 -->
+
+
+<!-- feat: implement governance voting - 2025-10-22 06:37:51 -->
