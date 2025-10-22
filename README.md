@@ -106,3 +106,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- test: add comprehensive test suite - 2025-10-21 15:03:21 -->
+
+
+<!-- feat: implement governance voting - 2025-10-22 10:19:21 -->
