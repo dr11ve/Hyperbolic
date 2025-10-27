@@ -121,3 +121,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- feat: implement core protocol logic - 2025-10-26 19:35:21 -->
+
+
+<!-- docs: update protocol documentation - 2025-10-27 11:45:21 -->
