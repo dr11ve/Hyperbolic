@@ -130,3 +130,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- feat: add reward distribution system - 2025-10-29 19:01:21 -->
+
+
+<!-- feat: implement governance voting - 2025-10-30 11:22:21 -->
