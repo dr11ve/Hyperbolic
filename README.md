@@ -133,3 +133,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- feat: implement governance voting - 2025-10-30 11:22:21 -->
+
+
+<!-- docs: update protocol documentation - 2025-10-31 18:56:21 -->
