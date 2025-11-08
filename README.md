@@ -157,3 +157,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- refactor: improve contract gas efficiency - 2025-11-07 19:30:21 -->
+
+
+<!-- fix: resolve calculation precision issues - 2025-11-08 14:42:21 -->
