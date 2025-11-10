@@ -163,3 +163,6 @@ In API section add your API from Hyperbolic
 
 
 <!-- feat: add staking mechanism - 2025-11-09 12:07:21 -->
+
+
+<!-- test: add comprehensive test suite - 2025-11-10 12:09:21 -->
